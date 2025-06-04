@@ -9,10 +9,10 @@ An XR Software engineer with a passion for building immersive, interactive exper
 
 | Project | Description |
 |--------|-------------|
-| ✏️ [**DrawSpace**](https://github.com/abhijitkarande/DrawSpace) | A web-based 2D/3D drawing app built in Unity, designed for future VR support. |
-| ✋ [**VR Rock Paper Scissors**](https://github.com/abhijitkarande/VR-RockPaperScissors) | A virtual version of the classic game in a VR environment—featuring gesture-based input. |
-| 🎮 [**VR-RollYourLuck**](https://github.com/abhijitkarande/VR-RollYourLuck) | A dice-rolling race game in VR, where players and AI compete to reach the finish line first. |
-| 🚗 [**Braking Force Measurement**](https://github.com/abhijitkarande/BrakingForceMeasurement) | A master's project using a force-sensitive resistor and Arduino to measure braking force on bicycles and classify it into different intensity levels. |
+| ✏️ [**DrawSpace**](https://github.com/karandeabhijitsudam/drawspace) | A web-based 2D/3D drawing app built in Unity, designed for future VR support. |
+| ✋ [**VR Rock Paper Scissors**](https://github.com/karandeabhijitsudam/VR-RockPaperScissors) | A virtual version of the classic game in a VR environment—featuring gesture-based input. |
+| 🎮 [**VR-RollYourLuck**](https://github.com/karandeabhijitsudam/VR-RollYourLuck) | A dice-rolling race game in VR, where players and AI compete to reach the finish line first. |
+| 🚗 [**Braking Force Measurement**](https://github.com/karandeabhijitsudam/Braking_Force_Meausrement) | A master's project using a force-sensitive resistor and Arduino to measure braking force on bicycles and classify it into different intensity levels. |
 
 
 ---
@@ -29,7 +29,7 @@ An XR Software engineer with a passion for building immersive, interactive exper
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/abhijit-karande/">
+<a href="https://www.linkedin.com/in/abhijit-karande-a5a69610a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/karandeabhijitsudam">
